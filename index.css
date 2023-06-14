@@ -1,0 +1,8 @@
+.parent3 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 100px;
+    background-color: black;
+    border-radius: 30px;
+}
